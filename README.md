@@ -13,3 +13,5 @@
 ![SLIDER_PROFONDEUR_preview](https://github.com/user-attachments/assets/077f3c4d-ea34-4220-bce0-8027fb05c6ec)
 
 ![TIGE_NAGEOIRE_preview](https://github.com/user-attachments/assets/3ba58085-61ad-4711-a4a6-9f91e8197b67)
+
+![PLV_TOUCH_OBJETS_preview](https://github.com/user-attachments/assets/04b57625-bcaa-41da-b0de-664cf8e8e16e)
